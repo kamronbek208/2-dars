@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box
+}
+
+.background__img {
+    width: 1600px;
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F3F3F3;
+    border-radius: 45px;
+}
+
+.card {
+    font-family:'Space Grotesk', sans-serif;
+    width: 500px;
+    height: 227px;
+    gap: 26px;
+}
+
+.card p {
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.background__img .button {
+    width: 300px;
+    height: 68px;
+    padding: 20px 35px 20px 35px;
+    gap: 10px;
+    border-radius: 14px;
+    cursor: pointer;
+
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+
+    transition: all 0.5s;
+    background-color:#191A23;
+    color: #FFFFFF;
+    border-radius: 14px;
+}
+
+.background__img .button:hover {
+    background-color:#B9FF66;
+    color:#191A23;
+}
+
+.text {
+    font-family: 'Space Grotesk', sans-serif;
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 85px; 
+}
+
+.text .case {
+    background-color:#B9FF66;
+    border-radius:7px;
+}
+
+.container {
+    display: flex;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+    font-family:'Space Grotesk', sans-serif ;
+    background-color:#191A23;
+    color:#FFFFFF;
+    border-radius:35px;
+}
+
+.container p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.photo {
+    padding-bottom: 20px;
+}
+
+.consultation1 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.consultation2 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.consultation3 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.consultation4 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.consultation5 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.consultation6 {
+    font-family:'Space Grotesk', sans-serif ;
+    padding-left: 10px;
+    background-color:#B9FF66;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+   
